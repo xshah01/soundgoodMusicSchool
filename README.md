@@ -12,3 +12,12 @@ soundgoodMusicSchool is an application for database management of instrument ren
 
 - Java
 - SQL
+
+
+
+### Usage
+
+When compiled, user is encountered by a list of options:
+
+![](/Users/shadabahmed/Documents/KTH/CINTE/GitHub/soundgoodMusicSchool/Skärmdumpar/Skärmavbild 2021-04-06 kl. 00.01.10.png)
+
