@@ -21,3 +21,7 @@ When compiled, user is encountered by a list of options:
 
 ![Skärmavbild 2021-04-06 kl. 00.01.10](/Users/shadabahmed/Documents/KTH/CINTE/GitHub/soundgoodMusicSchool/Skärmdumpar/Skärmavbild 2021-04-06 kl. 00.01.10.png)
 
+When, for example, proceeding with activating a rental, the following output will look like this:
+
+![](README.assets/Skärmavbild 2021-04-06 kl. 00.00.55.png)
+
