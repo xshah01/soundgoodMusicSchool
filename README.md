@@ -1,4 +1,4 @@
-# soundgoodMusicSchool
+# Soundgood Music School
 
 
 
