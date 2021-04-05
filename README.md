@@ -19,10 +19,10 @@ soundgoodMusicSchool is an application for database management of instrument ren
 
 When compiled, user is encountered by a list of options:
 
-![Skärmavbild 2021-04-06 kl. 00.01.10](/Users/shadabahmed/Documents/KTH/CINTE/GitHub/soundgoodMusicSchool/Skärmdumpar/Skärmavbild 2021-04-06 kl. 00.01.10.png)
+![img1](README.assets/img1.png)
 
 When, for example, proceeding with activating a rental, the following output will look like this:
 
-![](README.assets/Skärmavbild 2021-04-06 kl. 00.00.55.png)
+![img2](README.assets/img2.png)
 
-test
+When the rental has been activated and registered, the database will be updated with the new data.
