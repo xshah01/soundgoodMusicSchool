@@ -25,4 +25,7 @@ When, for example, proceeding with activating a rental, the following output wil
 
 ![img2](README.assets/img2.png)
 
-When the rental has been activated and registered, the database will be updated with the new data.
+When the rental has been activated and registered, the database will be updated with the new data:
+
+![](README.assets/img3.png)
+
