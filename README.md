@@ -25,3 +25,4 @@ When, for example, proceeding with activating a rental, the following output wil
 
 ![](README.assets/Skärmavbild 2021-04-06 kl. 00.00.55.png)
 
+test
