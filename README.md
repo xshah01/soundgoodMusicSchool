@@ -36,3 +36,5 @@ When the rental has been activated and registered, the database will be updated 
 Name: Shadab Ahmed
 
 E-mail: shadaba@kth.se
+
+lst
