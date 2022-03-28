@@ -15,7 +15,7 @@ soundgoodMusicSchool is an application for database management of instrument ren
 
 
 
-### Usage
+### Sample run
 
 When compiled, user is encountered by a list of options:
 
